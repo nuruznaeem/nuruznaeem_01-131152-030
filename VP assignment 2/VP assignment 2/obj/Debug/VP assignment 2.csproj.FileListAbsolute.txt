@@ -1,0 +1,17 @@
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.byid.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.byname.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.bysem.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.delete.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.introduction.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.Properties.Resources.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.search.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.top3.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.write.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP assignment 2.csproj.GenerateResource.Cache
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\bin\Debug\VP assignment 2.exe.config
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\bin\Debug\VP assignment 2.exe
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\bin\Debug\VP assignment 2.pdb
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP assignment 2.exe
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP assignment 2.pdb
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP_assignment_2.mark.resources
+C:\Users\NURUZ\documents\visual studio 2013\Projects\VP assignment 2\VP assignment 2\obj\Debug\VP assignment 2.csprojResolveAssemblyReference.cache
