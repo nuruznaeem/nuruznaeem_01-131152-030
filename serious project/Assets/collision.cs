@@ -1,11 +1,13 @@
 ﻿using UnityEngine;
-public class collision : MonoBehaviour 
+public class collision : MonoBehaviour
 {
-    void OnCollisionEnter(collision itsinfo)
+    public movementplayer move;
+    void OnCollisionEnter(Collision itsinfo)
     {
-        if (itsinfo.gameObject.name == "outcube")
-        { 
-        
+        if (itsinfo.collider.tag == "outcube")
+        {
+            move.enabled = false;
         }
-    }	
+
+    }
 }

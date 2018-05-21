@@ -7,4 +7,5 @@ public class followme : MonoBehaviour
     {
         transform.position = myplayer.position + uncentered;
 	}
+
 }

@@ -129,7 +129,7 @@ GameObject:
   - component: {fileID: 66788596}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -202,7 +202,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 66788589}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 6f15136a5d6ed7147bc37c5ba0fc6e7f, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -241,6 +241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a80c17dcd11b8b54e835f5c439e19655, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  move: {fileID: 66788595}
 --- !u!1 &230371954
 GameObject:
   m_ObjectHideFlags: 0
@@ -273,7 +274,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: a71699bd1bd8f0049873c11f9cb69b1a, type: 2}
+  - {fileID: 2100000, guid: b3ebb9183b9f304429f84e9dc3fe47da, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -433,8 +434,8 @@ GameObject:
   - component: {fileID: 705121568}
   - component: {fileID: 705121572}
   m_Layer: 0
-  m_Name: Cube
-  m_TagString: Untagged
+  m_Name: outcube
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -453,7 +454,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: b3ebb9183b9f304429f84e9dc3fe47da, type: 2}
+  - {fileID: 2100000, guid: a71699bd1bd8f0049873c11f9cb69b1a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
